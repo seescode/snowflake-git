@@ -1,1 +1,1 @@
-SELECT 1 AS id, 'initial' AS status;
+SELECT 2 AS id, 'updated' AS status;
